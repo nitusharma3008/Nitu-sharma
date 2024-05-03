@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nitusharma7041092078
+- 👋 Hi, I’m @nitusharma
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Web development
 - 💞️ I’m looking to collaborate on Software Solutions
